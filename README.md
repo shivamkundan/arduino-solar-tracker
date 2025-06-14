@@ -1,5 +1,7 @@
 # Arduino Solar Tracker
 
+[![Docs](https://img.shields.io/badge/docs-online-blue)](https://shivamkundan.github.io/arduino-solar-tracker)
+
 This Arduino project calculates solar elevation, azimuth, and direct irradiance based on user input.
 
 ## 📌 Description
