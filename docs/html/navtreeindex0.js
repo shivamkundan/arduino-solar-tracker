@@ -1,0 +1,26 @@
+var NAVTREEINDEX0 =
+{
+"_solar___alt___az___simple_8h.html":[4,0,0],
+"_solar___alt___az___simple_8h.html#a0db407e07b22ad85c0fd4b1adfc36ee9":[4,0,0,5],
+"_solar___alt___az___simple_8h.html#a2681d780b255b4841887a1e3b6a16329":[4,0,0,3],
+"_solar___alt___az___simple_8h.html#a2e1a1f2d13021b7daac14c84993bcb74":[4,0,0,2],
+"_solar___alt___az___simple_8h.html#a542d023432412dd8ab12fa7f609c5b63":[4,0,0,1],
+"_solar___alt___az___simple_8h.html#aba7d692392288f2265613b84f597bcf1":[4,0,0,0],
+"_solar___alt___az___simple_8h.html#ac9779eef9a50327860993b2c5ad0c21f":[4,0,0,6],
+"_solar___alt___az___simple_8h.html#af754d64862fa0d97ddc0c7648d0dcc17":[4,0,0,4],
+"_solar___alt___az___simple_8h_source.html":[4,0,0],
+"_solar___alt___az___simple_8ino.html":[4,0,1],
+"files.html":[4,0],
+"globals.html":[4,1,0],
+"globals_func.html":[4,1,1],
+"index.html":[],
+"index.html#autotoc_md1":[0],
+"index.html#autotoc_md2":[0,0],
+"index.html#autotoc_md3":[0,1],
+"index.html#autotoc_md4":[0,2],
+"index.html#autotoc_md5":[0,3],
+"index.html#autotoc_md6":[1],
+"index.html#autotoc_md7":[2],
+"index.html#autotoc_md8":[3],
+"pages.html":[]
+};

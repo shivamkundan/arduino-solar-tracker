@@ -8,5 +8,7 @@ FILE_PATTERNS          = *.h *.cpp *.ino
 RECURSIVE              = YES
 GENERATE_LATEX         = NO
 GENERATE_HTML          = YES
+GENERATE_TREEVIEW = YES
+
 
 
