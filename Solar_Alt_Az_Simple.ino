@@ -27,7 +27,7 @@
 
   NOTE: For descriptions of each function, refer to Solar_Alt_Az_Simple.h
 
-  Author: ChatGPT for Shivam (2025)
+  Author: Shivam Kundan (2025)
 */
 
 #include <math.h>
