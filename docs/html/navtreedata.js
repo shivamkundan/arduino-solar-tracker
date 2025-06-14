@@ -25,15 +25,15 @@
 var NAVTREE =
 [
   [ "Arduino Solar Tracker", "index.html", [
-    [ "📌 Description", "index.html#autotoc_md1", [
-      [ "📥 Input Format (via Serial Monitor)", "index.html#autotoc_md2", null ],
-      [ "💡 Example Input", "index.html#autotoc_md3", null ],
-      [ "📤 Output", "index.html#autotoc_md4", null ],
-      [ "✅ Features", "index.html#autotoc_md5", null ]
+    [ "Description", "index.html#autotoc_md1", [
+      [ "Input Format (via Serial Monitor)", "index.html#autotoc_md2", null ],
+      [ "Example Input", "index.html#autotoc_md3", null ],
+      [ "Output", "index.html#autotoc_md4", null ],
+      [ "Features", "index.html#autotoc_md5", null ]
     ] ],
-    [ "🧭 Validity Range", "index.html#autotoc_md6", null ],
-    [ "🛠 How to Use", "index.html#autotoc_md7", null ],
-    [ "📄 Documentation", "index.html#autotoc_md8", null ],
+    [ "Validity Range", "index.html#autotoc_md6", null ],
+    [ "How to Use", "index.html#autotoc_md7", null ],
+    [ "Documentation", "index.html#autotoc_md8", null ],
     [ "Files", "files.html", [
       [ "File List", "files.html", "files_dup" ],
       [ "File Members", "globals.html", [
