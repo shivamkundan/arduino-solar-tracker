@@ -1,1 +1,1 @@
-[Click here to open the full documentation](./index.html)
+[Click here to open the full documentation](.docs/html/index.html)
