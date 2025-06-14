@@ -1,0 +1,9 @@
+PROJECT_NAME           = "Arduino Solar Tracker"
+OUTPUT_DIRECTORY       = docs
+INPUT                  = . README.md
+USE_MDFILE_AS_MAINPAGE = README.md
+MARKDOWN_SUPPORT       = YES
+EXTRACT_ALL            = YES
+FILE_PATTERNS          = *.h *.cpp *.ino
+RECURSIVE              = YES
+GENERATE_LATEX         = NO
