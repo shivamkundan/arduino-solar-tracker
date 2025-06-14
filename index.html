@@ -95,20 +95,20 @@ $(document).ready(function(){initNavTree('index.html',''); initResizable(); });
 <div class="textblock"><p><a class="anchor" id="md_README"></a> <a href="https://shivamkundan.github.io/arduino-solar-tracker"><img src="https://img.shields.io/badge/docs-online-blue" alt="Docs" class="inline"/></a></p>
 <p>This Arduino project calculates solar elevation, azimuth, and direct irradiance based on user input.</p>
 <h1><a class="anchor" id="autotoc_md1"></a>
-📌 Description</h1>
+Description</h1>
 <p>This Arduino code calculates:</p><ul>
 <li><b>Solar elevation angle</b> (degrees above the horizon)</li>
 <li><b>Solar azimuth angle</b> (degrees from North, clockwise 0°–360°)</li>
 <li><b>Estimated direct solar irradiance</b> (W/m²) using the Haurwitz clear-sky model</li>
 </ul>
 <h2><a class="anchor" id="autotoc_md2"></a>
-📥 Input Format (via Serial Monitor)</h2>
+Input Format (via Serial Monitor)</h2>
 <p>year,month,day,hour,minute,second</p>
 <h2><a class="anchor" id="autotoc_md3"></a>
-💡 Example Input</h2>
+Example Input</h2>
 <p>2025,6,13,22,14,0</p>
 <h2><a class="anchor" id="autotoc_md4"></a>
-📤 Output</h2>
+Output</h2>
 <p>The program prints:</p><ul>
 <li>Solar Elevation (degrees)</li>
 <li>Solar Azimuth (from North, clockwise)</li>
@@ -116,14 +116,14 @@ $(document).ready(function(){initNavTree('index.html',''); initResizable(); });
 <li>Time zone offset (UTC-5 or UTC-6, auto-adjusted for DST)</li>
 </ul>
 <h2><a class="anchor" id="autotoc_md5"></a>
-✅ Features</h2>
+Features</h2>
 <ul>
 <li>Automatically adjusts for <b>Daylight Saving Time</b> (U.S. rules since 2007)</li>
 <li>Accurate solar position using simplified NOAA/SPA models</li>
 <li>Location set to <b>Carbondale, IL</b> (latitude 37.7272, longitude -89.2168)</li>
 </ul>
 <h1><a class="anchor" id="autotoc_md6"></a>
-🧭 Validity Range</h1>
+Validity Range</h1>
 <table class="markdownTable">
 <tr class="markdownTableHead">
 <th class="markdownTableHeadNone">Component   </th><th class="markdownTableHeadNone">Valid Years   </th><th class="markdownTableHeadNone">Notes    </th></tr>
@@ -137,7 +137,7 @@ $(document).ready(function(){initNavTree('index.html',''); initResizable(); });
 <td class="markdownTableBodyNone">Irradiance Model   </td><td class="markdownTableBodyNone">All years   </td><td class="markdownTableBodyNone">Clear-sky estimate only   </td></tr>
 </table>
 <h1><a class="anchor" id="autotoc_md7"></a>
-🛠 How to Use</h1>
+How to Use</h1>
 <ol type="1">
 <li>Connect your Arduino or ESP32 to your computer</li>
 <li>Open the <b>Serial Monitor</b> at <b>115200 baud</b></li>
@@ -145,7 +145,7 @@ $(document).ready(function(){initNavTree('index.html',''); initResizable(); });
 <li>View real-time solar elevation, azimuth, and irradiance data</li>
 </ol>
 <h1><a class="anchor" id="autotoc_md8"></a>
-📄 Documentation</h1>
+Documentation</h1>
 <p>This project includes Doxygen-compatible documentation in <code>solar_tracker.h</code>. You can generate a wiki-style HTML output by running:</p>
 <p>```bash doxygen Doxyfile </p>
 </div></div><!-- PageDoc -->
